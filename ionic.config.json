@@ -1,0 +1,8 @@
+{
+  "name": "HN Imoveis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5866bae2"
+}

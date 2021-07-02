@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HN Imoveis",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
